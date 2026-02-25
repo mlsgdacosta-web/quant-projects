@@ -102,9 +102,4 @@ Interests: stochastic processes, mechanism design, applied micro, market design,
 
 ---
 
-# Contact  
-If you'd like to discuss the technical details or reproduce anything here, feel free to reach out:
-
-**Email:** mlsgdacosta@gmail.com  
-**LinkedIn:** linkedin.com/in/malu-sena-gomes-da-costa  
 
